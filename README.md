@@ -25,5 +25,5 @@ Hệ thống quản lý nhân sự cho phép người dùng xem danh sách, thê
 - **Link Docker Hub Backend:**  https://hub.docker.com/r/thanhbao237502/backend
 - **Link Docker Hub Frontend:** https://hub.docker.com/r/thanhbao237502/frontend
 - **Link Render App:** https://web-237502.onrender.com
-- **Link Render API:** (Sẽ cập nhật ở các câu sau)
-- **Link MongoDB Atlas:** (Sẽ cập nhật ở các câu sau)
+- **Link Render API:** https://api-237502.onrender.com
+- **Link MongoDB Atlas:** mongodb+srv://thanhbao237502_db_user:<db_password>@cluster0.sjxya3e.mongodb.net/
