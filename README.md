@@ -2,7 +2,8 @@
 
 - **Họ và tên:** Trần Thanh Bảo
 - **MSSV:** 237502
-- **Lớp:** (Nhập tên lớp của bạn vào đây)
+- **Lớp:** DH23TIN10
+
 
 ## 1. Mô tả hệ thống
 Hệ thống quản lý nhân sự cho phép người dùng xem danh sách, thêm mới, tìm kiếm, cập nhật và xóa hồ sơ nhân viên.
@@ -23,6 +24,6 @@ Hệ thống quản lý nhân sự cho phép người dùng xem danh sách, thê
 - **Link GitHub Repository:** https://github.com/thanhbao237502-png/237502_TranThanhBao
 - **Link Docker Hub Backend:**  https://hub.docker.com/r/thanhbao237502/backend
 - **Link Docker Hub Frontend:** https://hub.docker.com/r/thanhbao237502/frontend
-- **Link Render App:** (Sẽ cập nhật ở các câu sau)
+- **Link Render App:** https://web-237502.onrender.com
 - **Link Render API:** (Sẽ cập nhật ở các câu sau)
 - **Link MongoDB Atlas:** (Sẽ cập nhật ở các câu sau)
