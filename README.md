@@ -22,7 +22,7 @@ Hệ thống quản lý nhân sự cho phép người dùng xem danh sách, thê
 ## 4. Danh sách các đường link sản phẩm
 - **Link GitHub Repository:** https://github.com/thanhbao237502-png/237502_TranThanhBao
 - **Link Docker Hub Backend:**  https://hub.docker.com/r/thanhbao237502/backend
-- **Link Docker Hub Frontend:** (Sẽ cập nhật ở các câu sau)
+- **Link Docker Hub Frontend:** https://hub.docker.com/r/thanhbao237502/frontend
 - **Link Render App:** (Sẽ cập nhật ở các câu sau)
 - **Link Render API:** (Sẽ cập nhật ở các câu sau)
 - **Link MongoDB Atlas:** (Sẽ cập nhật ở các câu sau)
